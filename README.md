@@ -13,8 +13,6 @@
 
 - 👯 I am working on Game Design, Level Design,Game Development and Data Science.
 
-- 📝 I regularly write articles on [medium link](medium link)
-
 - 📫 How to reach me via mail **barkirgen@gmail.com**
 
 - 📄 How to reach me via linkedin **https://www.linkedin.com/in/barkinirgen/**
