@@ -32,6 +32,7 @@
 </p>
 
 <h1><h3 align="left">Tool Stack:</h3>
+  
 - Python
   
 - SQL
