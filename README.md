@@ -9,7 +9,7 @@
 
 <h1>About Me! 😎</h1>
  
-- 🌱 I’m currently working as a Game Designer at Gnarly Game Studio.
+- 🌱 I’m currently working as a Product Manager.
 
 - 👯 I am working on Game Design, Level Design,Game Development and Data Science.
 
