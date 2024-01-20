@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Barkin</h1>
-<h3 align="center">I am a passionate Game Designer - Data Scientist based in Turkey.</h3>
+<h3 align="center">I am a passionate Product Manager - Game Designer based in Turkey.</h3>
 
 
 
@@ -11,7 +11,7 @@
  
 - 🌱 I’m currently working as a Product Manager.
 
-- 👯 I am working on Game Design, Level Design,Game Development and Data Science.
+- 👯 I am working on Game Design, Level Design, Game Development and Data Science.
 
 - 📫 How to reach me via mail **barkirgen@gmail.com**
 
